@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- losul additions -->
-  <project path="art" name="LineageOS-UL/android_art" remote="losul" />
+  <project path="art" name="LineageOSUL/android_art" remote="losul" />
   
   <project path="bionic" name="LineageOS-UL/android_bionic" remote="losul" />
 
@@ -16,10 +16,10 @@
   <project path="external/perfetto" name="LineageOS-UL/android_external_perfetto" remote="losul" />
   <project path="external/wpa_supplicant_8" name="LineageOS-UL/android_external_wpa_supplicant_8" remote="losul" />
   
-  <project path="frameworks/av" name="LineageOS-UL/android_frameworks_av" remote="losul" />
-  <project path="frameworks/base" name="LineageOS-UL/android_frameworks_base" remote="losul" />
+  <project path="frameworks/av" name="LineageOSUL/android_frameworks_av" remote="losul" />
+  <project path="frameworks/base" name="LineageOSUL/android_frameworks_base" remote="losul" />
   <project path="frameworks/ex" name="LineageOS-UL/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" remote="losul" />
-  <project path="frameworks/native" name="LineageOS-UL/android_frameworks_native" remote="losul" />
+  <project path="frameworks/native" name="LineageOSUL/android_frameworks_native" remote="losul" />
   <project path="frameworks/opt/telephony" name="LineageOS-UL/android_frameworks_opt_telephony" remote="losul" />
   <project path="frameworks/opt/net/wifi" name="LineageOS-UL/android_frameworks_opt_net_wifi" remote="losul" />
   
@@ -87,12 +87,12 @@
 
   <project path="packages/apps/Nfc" name="LineageOS-UL/android_packages_apps_Nfc" remote="losul" />
   <project path="packages/modules/adb" name="LineageOS-UL/android_packages_modules_adb" remote="losul" />
-  <project path="packages/modules/Bluetooth" name="LineageOS-UL/android_packages_modules_Bluetooth" remote="losul" />
-  <project path="packages/modules/Connectivity" name="LineageOS-UL/android_packages_modules_Connectivity" remote="losul" />
+  <project path="packages/modules/Bluetooth" name="LineageOSUL/android_packages_modules_Bluetooth" remote="losul" />
+  <project path="packages/modules/Connectivity" name="LineageOSUL/android_packages_modules_Connectivity" remote="losul" />
   <project path="packages/modules/DeviceLock" name="LineageOS-UL/android_packages_modules_DeviceLock" groups="pdk-cw-fs,pdk-fs" remote="losul" />
   <project path="packages/modules/DnsResolver" name="LineageOS-UL/android_packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="losul" />
   <project path="packages/modules/NetworkStack" name="LineageOS-UL/android_packages_modules_NetworkStack" remote="losul" />
-  <project path="packages/services/Telephony" name="LineageOS-UL/android_packages_services_Telephony" remote="losul" />
+  <project path="packages/services/Telephony" name="LineageOSUL/android_packages_services_Telephony" remote="losul" />
 
   <project path="prebuilts/abi-dumps/ndk" name="LineageOS-UL/android_prebuilts_abi-dumps_ndk" groups="pdk-fs" clone-depth="1" remote="losul" />
   <project path="prebuilts/build-tools" name="LineageOS-UL/android_prebuilts_build-tools" groups="pdk" clone-depth="1" remote="losul" />
