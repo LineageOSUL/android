@@ -33,7 +33,7 @@
 
   <project path="packages/apps/Nfc" name="LineageOSUL/android_packages_apps_Nfc" remote="losul" />
   <project path="packages/inputmethods/LatinIME" name="LineageOS-UL/android_packages_inputmethods_LatinIME" remote="losul" />
-  <project path="packages/modules/adb" name="LineageOS-UL/android_packages_modules_adb" remote="losul" />
+  <project path="packages/modules/adb" name="LineageOSUL/android_packages_modules_adb" remote="losul" />
   <project path="packages/modules/Bluetooth" name="LineageOSUL/android_packages_modules_Bluetooth" remote="losul" />
   <project path="packages/modules/Connectivity" name="LineageOSUL/android_packages_modules_Connectivity" remote="losul" />
   <project path="packages/modules/NetworkStack" name="LineageOS-UL/android_packages_modules_NetworkStack" remote="losul" />
